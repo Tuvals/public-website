@@ -1,11 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>//localhost:56246/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Tuval.io</title>
+    <link>https://tuvals.github.io/public-website/tags/</link>
+    <description>Recent content in Tags on Tuval.io</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="//localhost:56246/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tuvals.github.io/public-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bot</title>
+      <link>https://tuvals.github.io/public-website/tags/bot/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/bot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT</title>
+      <link>https://tuvals.github.io/public-website/tags/chatgpt/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nextjs</title>
+      <link>https://tuvals.github.io/public-website/tags/nextjs/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openai</title>
+      <link>https://tuvals.github.io/public-website/tags/openai/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qlik SaaS</title>
+      <link>https://tuvals.github.io/public-website/tags/qlik-saas/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/qlik-saas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qlik Sense</title>
+      <link>https://tuvals.github.io/public-website/tags/qlik-sense/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/qlik-sense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silicon</title>
+      <link>https://tuvals.github.io/public-website/tags/silicon/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/silicon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://tuvals.github.io/public-website/tags/software/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailwind</title>
+      <link>https://tuvals.github.io/public-website/tags/tailwind/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/tailwind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://tuvals.github.io/public-website/tags/technology/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WhatsApp</title>
+      <link>https://tuvals.github.io/public-website/tags/whatsapp/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://tuvals.github.io/public-website/tags/whatsapp/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

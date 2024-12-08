@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hey, I am Tuval Sagi! on Tuval.io</title>
-    <link>//localhost:56246/about/</link>
+    <link>https://tuvals.github.io/public-website/about/</link>
     <description>Recent content in Hey, I am Tuval Sagi! on Tuval.io</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:56246/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tuvals.github.io/public-website/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
